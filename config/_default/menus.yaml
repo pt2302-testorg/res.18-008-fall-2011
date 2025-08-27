@@ -1,0 +1,21 @@
+leftnav:
+- identifier: 6731877a-9202-7d92-b4ab-de60926c637c
+  name: 'Part I: Complex Variables'
+  pageRef: /video_galleries/part-i
+  weight: 10
+- identifier: 2981d4db-d0f4-6ca2-3063-075a0410359d
+  name: 'Part II: Differential Equations'
+  pageRef: /video_galleries/part-ii
+  weight: 20
+- identifier: abcdd1e0-616d-8fc9-a420-15acb3bc4626
+  name: 'Part III: Linear Algebra'
+  pageRef: /video_galleries/part-iii
+  weight: 30
+- identifier: 38b5a78e-2a04-002a-9081-8629b2639c06
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 40
+- identifier: fa49d593-7cf9-4a3e-926a-5245b4d47ce0
+  name: IN MEMORY OF HERB GROSS
+  pageRef: /external-resources/in-memory-of-herb-gross_fa49d593-7cf9-4a3e-926a-5245b4d47ce0
+  weight: 1000
